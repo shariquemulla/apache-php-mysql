@@ -3,7 +3,7 @@
 
 ## **Table of Contents**<br>
 
-[**Part 1. Apache 2.4 Installation & Setup**](#part-1-apache-24-installation-&-setup)
+[**Part 1. Apache 2.4 Installation & Setup**](#part-1-apache-24-installation-and-setup)
   * [1-1 **Download and Configuration**](#1-1-download-and-configuration)
   * [1-2 **Start Apache Server**](#1-2-start-apache-server)
   * [1-3 **Install Apache as a Windows Service**](#1-3-install-apache-as-a-windows-service)
@@ -17,7 +17,7 @@
   * [3-1 **Test Directory Browsing**](#3-1-test-directory-browsing)
   * [3-2 **Disable Directory Browsing**](#3-2-disable-directory-browsing)
 
-[**Part 4. PHP 8.0 Installation & Setup**](#part-4-php-80-installation-&-setup)
+[**Part 4. PHP 8.0 Installation & Setup**](#part-4-php-80-installation-and-setup)
   * [4-1 **PHP Download and Configuration**](#4-1-php-download-and-configuration)
   * [4-2 **Configuration in Apache**](#4-2-configuration-in-apache)
 
@@ -32,7 +32,7 @@
 <br><br>
 
 
-# **Part 1. Apache 2.4 Installation &amp; Setup**
+# **Part 1. Apache 2.4 Installation and Setup**
 
     In this section, we will download and setup Apache version 2.4 and verify that the server is running without any problems.
 
@@ -262,7 +262,7 @@
 
     <img src="images/3.Directory_Browsing/5.forbidden_page.JPG" height="auto" width="400"><br><br>
 
-# **Part 4. PHP 8.0 Installation &amp; Setup**
+# **Part 4. PHP 8.0 Installation and Setup**
     In this section, we install and setup PHP version 8.
 
 ## 4-1 **PHP Download and Configuration**
