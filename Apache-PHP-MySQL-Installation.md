@@ -43,7 +43,7 @@
 
         Before installing Apache, make sure to install latest Visual C++ Redistributable from the link provided on the website.  
     
-    <img src="images/1.Apache_Setup/1.Apache_Download_Page.jpg" height="auto" width="500"><br><br>
+    <img src="./images/1.Apache_Setup/1.Apache_Download_Page.jpg" height="auto" width="500"><br><br>
 
   - Installing Visual C++ Redistributable
 
