@@ -28,6 +28,7 @@
 
 [**Part 6. MySQL Installation**](#part-6-mysql-installation)
 
+[**Final Apache Configuration Files**](#final-apache-configuration-files)
 
 <br><br>
 
@@ -437,6 +438,17 @@
 
 9.	Verify MySQL installation by checking if **MySQL80** service is running.
 
-    <img src="images/6.MySQL/13.services.JPG" height="auto" width="500"><br>
+    <img src="images/6.MySQL/13.services.JPG" height="auto" width="500"><br><br>
+
+
+# **Final Apache Configuration Files**
+
+1.	Download [httpd.conf](config_files/httpd.conf)
+
+        Replace this file with C:\Apache24\conf\httpd.conf
+
+2.	Download [httpd-vhosts.conf](config_files/httpd-vhosts.conf)
+
+        Replace this file with C:\Apache24\conf\extra\httpd-vhosts.conf
 
 
