@@ -1,5 +1,5 @@
-# **Manual Installation - *Apache | PHP | MySQL***<br>
-<br>
+# **Manual Installation - *Apache | PHP | MySQL***
+**<p align="right">- Sharique Mulla</p>**<br>
 
 ## **Table of Contents**<br>
 
