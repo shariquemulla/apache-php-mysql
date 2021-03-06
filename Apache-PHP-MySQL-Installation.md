@@ -43,7 +43,7 @@
 
         Before installing Apache, make sure to install latest Visual C++ Redistributable from the link provided on the website.  
     
-    <img src="images/1.Apache_Setup/1.Apache_Download_Page.JPG" height="auto" width="500"><br><br>
+    <img src="images/1.Apache_Setup/1.Apache_Download_Page.JPG" height="auto" width="700"><br><br>
 
   - Installing Visual C++ Redistributable
 
@@ -55,7 +55,7 @@
     
     <img src="images/1.Apache_Setup/4.Extracted_Folder.JPG" height="auto" width="500"><br><br>
     
-3. According to the **ReadMe** file, we have to move folder **Apache24** to a location which default to **C** drive. If the folder is kept in some other location, the same needs to be updated in the configuration file - **Apache24/config/httpd.conf**
+3. According to the **ReadMe** file, we have to move folder **Apache24** to a location which defaults to **C** drive. If the folder is kept in some other location, the same needs to be updated in the configuration file - **Apache24/config/httpd.conf**
 
     <img src="images/1.Apache_Setup/5.ReadMe_ZIP.JPG" height="auto" width="400"><br><br>
     
@@ -387,7 +387,7 @@
 ## 5-3 **Test SSL and Redirect**
 ---
 
-1. Open **https://mysiteone.tbd** in browser (notice **https**). You may get a private connection warning, just click **Advanced** and then click &#39;**proceed to https://mysiteone.tbd**(unsafe).
+1. Open **https://mysiteone.tbd** in browser (notice **https**). You may get a private connection warning, just click **Advanced** and then click **proceed to https://mysiteone.tbd**(unsafe).
 
     <img src="images/5.SSL/6.privacy_warning.JPG" height="auto" width="500"><br><br>
 
